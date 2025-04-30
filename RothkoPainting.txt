@@ -24,3 +24,12 @@
 Представьте, что вы получаете коробку от вашего любимого интернет-продавца -- content - это предмет в коробке, или, в нашем случае, заголовок, абзац или элемент изображения.
 
 Изменить атрибут src в  от https://cdn.freecodecamp.org/curriculum/css-box-model/diagram-1.png на https://cdn.freecodecamp.org/curriculum/css-box-model/diagram-2.png.
+
+
+
+Шаг 4
+Содержимое окружено пространством, называемым padding, подобно тому, как пузырчатая пленка отделяет элемент от коробки вокруг него.
+
+Подумайте о границе как картонной коробке, в которой отправили ваш товар.
+
+Изменить атрибут src на https://cdn.freecodecamp.org/curriculum/css-box-model/diagram-3.png
