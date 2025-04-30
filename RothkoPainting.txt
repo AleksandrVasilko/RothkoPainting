@@ -15,3 +15,12 @@
 В главном элементе добавьте мета-тег, который устанавливает charset кодировку на UTF-8, и элемент title с значением Rothko Painting.
 
 Внутри элемента body добавьте элемент img с src of https://cdn.freecodecamp.org/curriculum/css-box-model/diagram-1.png.
+
+
+
+Шаг З
+В модели CSS каждый элемент HTML рассматривается как поле с четырьмя областями.
+
+Представьте, что вы получаете коробку от вашего любимого интернет-продавца -- content - это предмет в коробке, или, в нашем случае, заголовок, абзац или элемент изображения.
+
+Изменить атрибут src в  от https://cdn.freecodecamp.org/curriculum/css-box-model/diagram-1.png на https://cdn.freecodecamp.org/curriculum/css-box-model/diagram-2.png.
